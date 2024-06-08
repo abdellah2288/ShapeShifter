@@ -5,12 +5,11 @@ import javafx.geometry.Orientation;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.layout.FlowPane;
-import javafx.scene.layout.FlowPane;
+
 
 public class StopWatch
 {
     static private volatile int milliseconds = 0;
-    static private volatile boolean needsUpdating = false;
     static private volatile boolean stopWatchOn = false;
     static private Button pauseButton = new Button("⏸"){{
         setOnMouseClicked(event -> {
