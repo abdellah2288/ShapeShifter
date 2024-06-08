@@ -10,5 +10,5 @@ Sue me.
 Error handling the way god intended.
 ## Is this code reusable at all ?
 I don't know you tell me.
-## Where's the little camera thing that was on display the of the event?
+## Where's the little camera thing that was on display the day of the event?
 OBS magic, has nothing to do with this software
